@@ -1,0 +1,3 @@
+build --copt=-I/usr/include/antlr4-runtime
+build --linkopt=-lantlr4-runtime
+build --cxxopt=-std=c++17
